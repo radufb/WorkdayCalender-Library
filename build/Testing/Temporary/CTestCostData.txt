@@ -1,0 +1,17 @@
+DateInfoTest.LeapYearTest 2 0.00236954
+DateInfoTest.LegalYMDTest 2 0.00222923
+DateInfoTest.IlegalYMDTest 2 0.0016363
+TimeTest.InvalidTimeTest 2 0.00105427
+WorkdayCalenderTest.PositiveIncrementTest_1 2 0.000892188
+WorkdayCalenderTest.PositiveIncrementTest_2 2 0.000972894
+WorkdayCalenderTest.PositiveIncrementTest_3 2 0.000915391
+WorkdayCalenderTest.NoIncrementTest 2 0.000993783
+WorkdayCalenderTest.NegativeIncrementTest_1 2 0.000819264
+WorkdayCalenderTest.NegativeIncrementTest_2 2 0.000891142
+WorkdayCalenderTest.NegativeIncrementTest_3 2 0.000880987
+WorkdayCalenderTest.NegativeIncrementTest_4 2 0.000869423
+WorkdayCalenderTest.NegativeIncrementTest_5 2 0.000866856
+DateTimeConverterTest.SecondsToDateTest 2 0.000802313
+DateTimeConverterTest.DateToSecondsTest 2 0.000763825
+DateTimeConverterTest.SecondsToWeekdayTest 2 0.000841546
+---

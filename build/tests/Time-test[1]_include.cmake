@@ -1,0 +1,5 @@
+if(EXISTS "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/Time-test[1]_tests.cmake")
+  include("/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/Time-test[1]_tests.cmake")
+else()
+  add_test(Time-test_NOT_BUILT Time-test_NOT_BUILT)
+endif()

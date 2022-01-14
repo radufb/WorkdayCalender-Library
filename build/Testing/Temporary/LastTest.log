@@ -1,0 +1,435 @@
+Start testing: Jan 14 02:34 CET
+----------------------------------------------------------
+1/16 Testing: DateInfoTest.LeapYearTest
+1/16 Test: DateInfoTest.LeapYearTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test" "--gtest_filter=DateInfoTest.LeapYearTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateInfoTest.LeapYearTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateInfoTest.LeapYearTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateInfoTest
+[ RUN      ] DateInfoTest.LeapYearTest
+[       OK ] DateInfoTest.LeapYearTest (0 ms)
+[----------] 1 test from DateInfoTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateInfoTest.LeapYearTest" end time: Jan 14 02:34 CET
+"DateInfoTest.LeapYearTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/16 Testing: DateInfoTest.LegalYMDTest
+2/16 Test: DateInfoTest.LegalYMDTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test" "--gtest_filter=DateInfoTest.LegalYMDTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateInfoTest.LegalYMDTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateInfoTest.LegalYMDTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateInfoTest
+[ RUN      ] DateInfoTest.LegalYMDTest
+[       OK ] DateInfoTest.LegalYMDTest (0 ms)
+[----------] 1 test from DateInfoTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateInfoTest.LegalYMDTest" end time: Jan 14 02:34 CET
+"DateInfoTest.LegalYMDTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/16 Testing: DateInfoTest.IlegalYMDTest
+3/16 Test: DateInfoTest.IlegalYMDTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test" "--gtest_filter=DateInfoTest.IlegalYMDTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateInfoTest.IlegalYMDTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateInfoTest.IlegalYMDTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateInfoTest
+[ RUN      ] DateInfoTest.IlegalYMDTest
+[       OK ] DateInfoTest.IlegalYMDTest (0 ms)
+[----------] 1 test from DateInfoTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateInfoTest.IlegalYMDTest" end time: Jan 14 02:34 CET
+"DateInfoTest.IlegalYMDTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/16 Testing: TimeTest.InvalidTimeTest
+4/16 Test: TimeTest.InvalidTimeTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/Time-test" "--gtest_filter=TimeTest.InvalidTimeTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"TimeTest.InvalidTimeTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TimeTest.InvalidTimeTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TimeTest
+[ RUN      ] TimeTest.InvalidTimeTest
+[       OK ] TimeTest.InvalidTimeTest (0 ms)
+[----------] 1 test from TimeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TimeTest.InvalidTimeTest" end time: Jan 14 02:34 CET
+"TimeTest.InvalidTimeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/16 Testing: WorkdayCalenderTest.PositiveIncrementTest_1
+5/16 Test: WorkdayCalenderTest.PositiveIncrementTest_1
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.PositiveIncrementTest_1" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.PositiveIncrementTest_1" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.PositiveIncrementTest_1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.PositiveIncrementTest_1
+[       OK ] WorkdayCalenderTest.PositiveIncrementTest_1 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.PositiveIncrementTest_1" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.PositiveIncrementTest_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/16 Testing: WorkdayCalenderTest.PositiveIncrementTest_2
+6/16 Test: WorkdayCalenderTest.PositiveIncrementTest_2
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.PositiveIncrementTest_2" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.PositiveIncrementTest_2" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.PositiveIncrementTest_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.PositiveIncrementTest_2
+[       OK ] WorkdayCalenderTest.PositiveIncrementTest_2 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.PositiveIncrementTest_2" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.PositiveIncrementTest_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/16 Testing: WorkdayCalenderTest.PositiveIncrementTest_3
+7/16 Test: WorkdayCalenderTest.PositiveIncrementTest_3
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.PositiveIncrementTest_3" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.PositiveIncrementTest_3" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.PositiveIncrementTest_3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.PositiveIncrementTest_3
+[       OK ] WorkdayCalenderTest.PositiveIncrementTest_3 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.PositiveIncrementTest_3" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.PositiveIncrementTest_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/16 Testing: WorkdayCalenderTest.NoIncrementTest
+8/16 Test: WorkdayCalenderTest.NoIncrementTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NoIncrementTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NoIncrementTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NoIncrementTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NoIncrementTest
+[       OK ] WorkdayCalenderTest.NoIncrementTest (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NoIncrementTest" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NoIncrementTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/16 Testing: WorkdayCalenderTest.NegativeIncrementTest_1
+9/16 Test: WorkdayCalenderTest.NegativeIncrementTest_1
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NegativeIncrementTest_1" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NegativeIncrementTest_1" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NegativeIncrementTest_1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NegativeIncrementTest_1
+[       OK ] WorkdayCalenderTest.NegativeIncrementTest_1 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NegativeIncrementTest_1" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NegativeIncrementTest_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/16 Testing: WorkdayCalenderTest.NegativeIncrementTest_2
+10/16 Test: WorkdayCalenderTest.NegativeIncrementTest_2
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NegativeIncrementTest_2" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NegativeIncrementTest_2" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NegativeIncrementTest_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NegativeIncrementTest_2
+[       OK ] WorkdayCalenderTest.NegativeIncrementTest_2 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NegativeIncrementTest_2" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NegativeIncrementTest_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/16 Testing: WorkdayCalenderTest.NegativeIncrementTest_3
+11/16 Test: WorkdayCalenderTest.NegativeIncrementTest_3
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NegativeIncrementTest_3" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NegativeIncrementTest_3" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NegativeIncrementTest_3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NegativeIncrementTest_3
+[       OK ] WorkdayCalenderTest.NegativeIncrementTest_3 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NegativeIncrementTest_3" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NegativeIncrementTest_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/16 Testing: WorkdayCalenderTest.NegativeIncrementTest_4
+12/16 Test: WorkdayCalenderTest.NegativeIncrementTest_4
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NegativeIncrementTest_4" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NegativeIncrementTest_4" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NegativeIncrementTest_4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NegativeIncrementTest_4
+[       OK ] WorkdayCalenderTest.NegativeIncrementTest_4 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NegativeIncrementTest_4" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NegativeIncrementTest_4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/16 Testing: WorkdayCalenderTest.NegativeIncrementTest_5
+13/16 Test: WorkdayCalenderTest.NegativeIncrementTest_5
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/WorkdayCalender-test" "--gtest_filter=WorkdayCalenderTest.NegativeIncrementTest_5" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"WorkdayCalenderTest.NegativeIncrementTest_5" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = WorkdayCalenderTest.NegativeIncrementTest_5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from WorkdayCalenderTest
+[ RUN      ] WorkdayCalenderTest.NegativeIncrementTest_5
+[       OK ] WorkdayCalenderTest.NegativeIncrementTest_5 (0 ms)
+[----------] 1 test from WorkdayCalenderTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"WorkdayCalenderTest.NegativeIncrementTest_5" end time: Jan 14 02:34 CET
+"WorkdayCalenderTest.NegativeIncrementTest_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/16 Testing: DateTimeConverterTest.SecondsToDateTest
+14/16 Test: DateTimeConverterTest.SecondsToDateTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test" "--gtest_filter=DateTimeConverterTest.SecondsToDateTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateTimeConverterTest.SecondsToDateTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateTimeConverterTest.SecondsToDateTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateTimeConverterTest
+[ RUN      ] DateTimeConverterTest.SecondsToDateTest
+[       OK ] DateTimeConverterTest.SecondsToDateTest (0 ms)
+[----------] 1 test from DateTimeConverterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateTimeConverterTest.SecondsToDateTest" end time: Jan 14 02:34 CET
+"DateTimeConverterTest.SecondsToDateTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/16 Testing: DateTimeConverterTest.DateToSecondsTest
+15/16 Test: DateTimeConverterTest.DateToSecondsTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test" "--gtest_filter=DateTimeConverterTest.DateToSecondsTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateTimeConverterTest.DateToSecondsTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateTimeConverterTest.DateToSecondsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateTimeConverterTest
+[ RUN      ] DateTimeConverterTest.DateToSecondsTest
+[       OK ] DateTimeConverterTest.DateToSecondsTest (0 ms)
+[----------] 1 test from DateTimeConverterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateTimeConverterTest.DateToSecondsTest" end time: Jan 14 02:34 CET
+"DateTimeConverterTest.DateToSecondsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/16 Testing: DateTimeConverterTest.SecondsToWeekdayTest
+16/16 Test: DateTimeConverterTest.SecondsToWeekdayTest
+Command: "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test" "--gtest_filter=DateTimeConverterTest.SecondsToWeekdayTest" "--gtest_also_run_disabled_tests"
+Directory: /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests
+"DateTimeConverterTest.SecondsToWeekdayTest" start time: Jan 14 02:34 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DateTimeConverterTest.SecondsToWeekdayTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DateTimeConverterTest
+[ RUN      ] DateTimeConverterTest.SecondsToWeekdayTest
+[       OK ] DateTimeConverterTest.SecondsToWeekdayTest (0 ms)
+[----------] 1 test from DateTimeConverterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DateTimeConverterTest.SecondsToWeekdayTest" end time: Jan 14 02:34 CET
+"DateTimeConverterTest.SecondsToWeekdayTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 14 02:34 CET

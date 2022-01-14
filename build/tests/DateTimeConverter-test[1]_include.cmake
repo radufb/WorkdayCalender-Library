@@ -1,0 +1,5 @@
+if(EXISTS "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test[1]_tests.cmake")
+  include("/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test[1]_tests.cmake")
+else()
+  add_test(DateTimeConverter-test_NOT_BUILT DateTimeConverter-test_NOT_BUILT)
+endif()

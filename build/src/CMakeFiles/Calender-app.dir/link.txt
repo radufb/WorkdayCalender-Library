@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Calender-app.dir/main.cpp.o  -o Calender-app  libCalender.a 

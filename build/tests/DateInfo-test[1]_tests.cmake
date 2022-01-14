@@ -1,0 +1,7 @@
+add_test( DateInfoTest.LeapYearTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test [==[--gtest_filter=DateInfoTest.LeapYearTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateInfoTest.LeapYearTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+add_test( DateInfoTest.LegalYMDTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test [==[--gtest_filter=DateInfoTest.LegalYMDTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateInfoTest.LegalYMDTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+add_test( DateInfoTest.IlegalYMDTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test [==[--gtest_filter=DateInfoTest.IlegalYMDTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateInfoTest.IlegalYMDTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+set( DateInfo-test_TESTS DateInfoTest.LeapYearTest DateInfoTest.LegalYMDTest DateInfoTest.IlegalYMDTest)
