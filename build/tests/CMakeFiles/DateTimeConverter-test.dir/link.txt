@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/DateTimeConverter-test.dir/DateTimeConverter.test.cpp.o  -o DateTimeConverter-test  ../src/libCalender.a ../lib/libgtest_main.a ../lib/libgtest.a -lpthread 

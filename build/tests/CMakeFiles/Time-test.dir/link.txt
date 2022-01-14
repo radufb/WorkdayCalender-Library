@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Time-test.dir/Time.test.cpp.o  -o Time-test  ../src/libCalender.a ../lib/libgtest_main.a ../lib/libgtest.a -lpthread 

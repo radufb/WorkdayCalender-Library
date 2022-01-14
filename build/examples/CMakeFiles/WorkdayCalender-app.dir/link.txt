@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/WorkdayCalender-app.dir/main.cpp.o  -o WorkdayCalender-app  ../src/libCalender.a 

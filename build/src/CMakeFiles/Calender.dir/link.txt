@@ -1,2 +1,0 @@
-/usr/bin/ar qc libCalender.a  CMakeFiles/Calender.dir/Date.cpp.o CMakeFiles/Calender.dir/DateTimeConverter.cpp.o CMakeFiles/Calender.dir/Time.cpp.o CMakeFiles/Calender.dir/WorkdayCalender.cpp.o
-/usr/bin/ranlib libCalender.a
