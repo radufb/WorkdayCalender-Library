@@ -14,7 +14,7 @@ struct WorkdayCalenderTest : public ::testing::Test {
     {
         workdayCalender.setWorkdayStartAndStop(Time(8, 0), Time(16 ,0));
         workdayCalender.setHoliday(Date(2004, 5, 27));
-        workdayCalender.setRecurringHoliday(Date(2004, 5, 17));
+        workdayCalender.setRecurringHoliday(Date(2003, 5, 17));
     }
 };
 

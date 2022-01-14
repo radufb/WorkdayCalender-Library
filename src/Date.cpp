@@ -45,10 +45,10 @@ bool Date::operator==(const Date& date) const
 std::ostream& Calender::operator<<(std::ostream& os, const Date& date)
 {
     os << std::setw(2) << std::setfill('0')
-       << static_cast<unsigned int>(date.day()) << "."
+       << date.day() << "."
        << std::setw(2) << std::setfill('0')
-       << static_cast<unsigned int>(date.month()) << "."
+       << date.month() << "."
        << std::setw(4) << std::setfill('0')
-       << static_cast<unsigned int>(date.year());
+       << date.year();
     return os;
 }

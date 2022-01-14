@@ -115,7 +115,7 @@ bool WorkdayCalender::isWorkday(const WeekDay& weekDay) const
 bool WorkdayCalender::isHoliday(const Date& date) const
 {
     for (Holiday holiday : m_holidays) {
-        if (holiday.date == date) {
+        if (holiday.date.day() == date.day() && holiday.date.month() == date.month()) {
             if (holiday.isRecurring || holiday.date.year() == date.year()) {
                 return true;
             }
