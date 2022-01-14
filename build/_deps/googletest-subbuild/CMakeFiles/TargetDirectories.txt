@@ -1,3 +1,0 @@
-/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
-/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir

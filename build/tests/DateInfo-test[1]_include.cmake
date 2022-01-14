@@ -1,5 +1,0 @@
-if(EXISTS "/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test[1]_tests.cmake")
-  include("/home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateInfo-test[1]_tests.cmake")
-else()
-  add_test(DateInfo-test_NOT_BUILT DateInfo-test_NOT_BUILT)
-endif()

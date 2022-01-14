@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/DateInfo-test.dir/DateInfo.test.cpp.o  -o DateInfo-test  ../lib/libgtest_main.a ../lib/libgtest.a -lpthread 
