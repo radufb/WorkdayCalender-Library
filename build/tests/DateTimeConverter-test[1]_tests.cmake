@@ -1,0 +1,7 @@
+add_test( DateTimeConverterTest.SecondsToDateTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test [==[--gtest_filter=DateTimeConverterTest.SecondsToDateTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateTimeConverterTest.SecondsToDateTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+add_test( DateTimeConverterTest.DateToSecondsTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test [==[--gtest_filter=DateTimeConverterTest.DateToSecondsTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateTimeConverterTest.DateToSecondsTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+add_test( DateTimeConverterTest.SecondsToWeekdayTest /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests/DateTimeConverter-test [==[--gtest_filter=DateTimeConverterTest.SecondsToWeekdayTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( DateTimeConverterTest.SecondsToWeekdayTest PROPERTIES WORKING_DIRECTORY /home/radu/Documents/AutoStore/github/WorkdayCalender-Library/build/tests)
+set( DateTimeConverter-test_TESTS DateTimeConverterTest.SecondsToDateTest DateTimeConverterTest.DateToSecondsTest DateTimeConverterTest.SecondsToWeekdayTest)
